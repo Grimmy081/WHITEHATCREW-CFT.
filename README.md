@@ -122,4 +122,32 @@ What is the threat name, hosts and classification?
 Format : WHC{threat name|hosts|classification}
 
 Answer: 
-1. 
+1. search Data SHA256 from test Mal-A1. 
+2. Found https://www.joesandbox.com/analysis/450613/0/html
+3. Data threat name and classification obtain here https://imgur.com/a/zfBpyyW
+4. Host data found here https://imgur.com/a/vCC69ym
+
+ C--Malware A - 3
+
+What is the Static File Name? Format: WHC{name.exe}
+
+Answer: 
+1. Data found from here https://www.joesandbox.com/analysis/450613/0/html
+
+ D--Adventure Time
+100
+This is the only non-Dynamic Challenge
+
+Sometimes all you need is a good short break of thrilling adventure.. or is it?
+
+Read Carefully
+
+Answer:
+1. Download the file and extract
+2. See inside 😂 there alot of file, so see the hint back
+3. https://imgur.com/a/lMTCWmm.
+4  try and error again Adventure Time.bat run in notepad
+5. found the flag WHC{} HERE https://imgur.com/a/VwXsJyh
+
+
+
