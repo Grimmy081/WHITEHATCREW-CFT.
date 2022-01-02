@@ -149,5 +149,44 @@ Answer:
 4  try and error again Adventure Time.bat run in notepad
 5. found the flag WHC{} HERE https://imgur.com/a/VwXsJyh
 
+5) Cryptography
 
+ A--Beginner Cryptography
+10
+Decode this base64:
 
+YmFzZTY0X2lzX292ZXJyYXRlZA==
+
+Enwrap it in WHC{} like this:-
+
+WHC{your_decoded_text_here}
+
+Answer: 
+1. Open browser or cryptography tool here i use web
+https://amp.base64decode.org/
+2. Copy paste the " YmFzZTY0X2lzX292ZXJyYXRlZA==" and run
+3. Result https://imgur.com/a/pZaCyAN
+4. Wrap them up with WHC{RESULT}
+
+ B--anencephaly
+
+What is this pokemon? 
+
+Answer: 
+1. Download file and extract
+2. Run the " anencephaly" file as doc ( use CODE pad)
+3. Result https://imgur.com/a/JTy0yxf 
+4. Run the thingy 😂 and we got some >+- symbols.....
+5. Copy those sign and search on web. Result : brainfuck coding
+6. Run those BF coding in https://imgur.com/a/4vceJ90
+7. Take the result run back in base64 encoder
+8. The flag is the result https://imgur.com/a/HzUNVsx
+
+ C--botak
+
+An old uncle is so tired trying to get his password came to you, he forgot his password. Can you try to brute force his password back?
+
+Answer: 
+1. Download the file and extract 
+2. Open the file i as doc in notepad or code pad 
+3. 
