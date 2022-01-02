@@ -1,6 +1,10 @@
 # WHITEHATCREW-CFT POC.
 My first github repo.
 
+Just me reading and all new to IT
+
+
+
 
 1) tutorial 
   A-- [TUTORIAL] Simple Mathematic
@@ -189,4 +193,12 @@ An old uncle is so tired trying to get his password came to you, he forgot his p
 Answer: 
 1. Download the file and extract 
 2. Open the file i as doc in notepad or code pad 
-3. 
+3. https://imgur.com/a/c0OOVQJ read with care.
+4. Found something strange. Copypaste them and run at decode.fr
+5. https://imgur.com/a/FbzEvJD
+6. Remember THOSE word "penat"
+7. The result is the flag 
+
+Thank that all from me 
+
+Grimmy081
