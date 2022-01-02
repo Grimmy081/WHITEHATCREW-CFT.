@@ -120,3 +120,6 @@ Answer:
 What is the threat name, hosts and classification?
 
 Format : WHC{threat name|hosts|classification}
+
+Answer: 
+1. 
